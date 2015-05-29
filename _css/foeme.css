@@ -1,0 +1,75 @@
+form,input,select,textarea
+{
+	margin:0; padding:0; color:#000000;
+} 
+
+.box 
+{
+	margin:0 auto; 
+	width:550px; 
+	background:blue  ; 
+	position:relative; 
+	top:10px; 
+	border:5px solid black; 
+} 
+
+
+label 
+{ 
+	width:100%; 
+	display: block; 
+	background:#3333FF  ; 
+	border-top:1px solid #262626; 
+	border-bottom:1px solid #161712; 
+	padding:10px 0 10px 0; 
+} 
+
+span 
+{
+	display: block; 
+	color:white; 
+	font-size:12px; 
+	float:left; width:100px; 
+	text-align:right; 
+	padding:5px 20px 0 0; 
+} 
+
+.input_text 
+{ 
+	padding:10px 10px; 
+	width:200px; 
+	background:#fff; 
+	border-bottom: 1px double #171717; 
+	border-top: 1px double #171717; 
+	border-left:1px double #333333; 
+	border-right:1px double #333333; 
+}
+ 
+.message
+{
+	padding:7px 7px; 
+	width:350px; 
+	background:white; 
+	border-bottom: 1px double #171717; 
+	border-top: 1px double #171717; 
+	border-left:1px double #333333; 
+	border-right:1px double #333333; 
+	overflow:hidden; 
+	height:50px; 
+} 
+.button
+{
+	margin:0 0 10px 0; 
+	padding:4px 7px; 
+	background:white; 
+	border:0px; 
+	position: relative; 
+	top:10px; 
+	left:200px; 
+	width:100px; 
+	border-bottom: 1px  #660000; 
+	border-top: 1px #660000; 
+	border-left:1px  #FF0033; 
+	border-right:1px  #FF0033;
+	color:black;
+}

@@ -1,0 +1,95 @@
+body
+{
+	margin: 0%;
+	padding: 0%;
+	background-color: #ADEAEA;
+	display: block;
+} 
+
+#wrapper
+{
+	width: 100%;
+	height: 100%;
+	float: left;
+	margin: 0% auto 0% auto;
+	display: block;
+
+}
+
+h1 
+{
+	color:white; 
+	font-size:18px; 
+	text-transform:uppercase; 
+	padding:5px 0 5px 5px; 
+	border-bottom:3px solid #161712; 
+	border-top:3px solid #161712; 
+}
+
+header
+{
+	width: 100%;
+	height: 110px;
+	float: left;
+	margin: 0% auto 0.9% auto;
+	padding: 0%;
+	background: Yellow;
+	display: block;
+}
+
+content
+{
+	width: 100%;
+	float: left;
+	margin: 0% auto 0%auto;
+	padding: 0%;
+	display: block;
+}
+
+#sidebar2{
+	width: 12%;
+	background-color: white;
+	margin: 0% auto 2%auto;
+	float: left;
+	border: 2px solid silver;
+	margin-left: 0.7%;
+}
+
+.imgbar
+{
+	width: 80%;
+	height: 100%;
+	margin: 5% auto 5% auto;
+	margin-left: 10%;
+}
+
+#conteudo
+{
+	width: 85%;
+	float: right;
+	margin: 0% auto 0%auto;
+	margin-left: 0%;
+	margin-right: 0.5%;
+	padding: 0;
+	border: 3px solid silver;
+	background-color: white;
+	display: block;
+}
+
+footer
+{
+	width: 100%;
+	float: left;
+	margin: 0.3% auto 0% auto;
+	padding: 0%;
+	background-color: silver;
+	display: block;
+}
+
+.rodape
+{
+	text-align: center;
+	font-family: tahoma;
+	color: black;
+	margin: 0.2% auto 0.2% auto;
+}
